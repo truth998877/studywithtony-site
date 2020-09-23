@@ -3,7 +3,7 @@ Title: studywithtony.com - A journey in studying physics from a-level to undergr
 URL: http://studywithtony.com
 ---
 
-## Study along with me
+## Study Along with Me
 
 study along with me as I live stream my journey from A level physics through to undergrate level and beyond...
 
