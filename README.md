@@ -1,4 +1,4 @@
-% studywithtony.com - A journey in studying physics from a-level to undergrate level
+% studywithtony.com - A journey in studying physics from a-level to undergraduate level
 %
 %
 
