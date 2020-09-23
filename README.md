@@ -1,7 +1,9 @@
----
-Title: studywithtony.com - A journey in studying physics from a-level to undergrate level
-URL: http://studywithtony.com
----
+% studywithtony.com - A journey in studying physics from a-level to undergrate level
+%
+%
+
+## URL: http://studywithtony.com
+
 
 ## Study Along with Me
 
