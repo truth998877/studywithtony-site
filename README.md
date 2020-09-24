@@ -35,4 +35,6 @@ Live from 9:30pm Mon-Fri, until I need sleep, and from  7-10am Sat-Sun
 
 ## Previous Live Streams
 
+Catch up with my previous steams over on my previos streams page
+
 
