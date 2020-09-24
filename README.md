@@ -3,7 +3,7 @@
  URL: www.studywithtony.com
 ---
 
-## Study Along with [Me](www.tonyruther.com)
+## Study Along with [Me](http://www.tonyruther.com)
 
 Study along with me as I live stream my journey from A level physics through to undergrate level and beyond.
 
@@ -27,7 +27,7 @@ However I still poccess all of my undergraduate textbooks and some others I've a
 
 ## Work Flow
 
-My plan is to live stream to this site (via twitch) while studying, taking handwritten notes from the books as I read through them (onenote on ipad pro, so no trees will be harmed during my re-eduation), attempting all exercises. Once I complete a section or chapter, I will create 'typed up' summary notes, this will be found on this site's sister site, [www.myphysicsnotes.com](www.myphysicsnotes.com). For each live stream I will publish what will be studied in advance.
+My plan is to live stream to this site (via twitch) while studying, taking handwritten notes from the books as I read through them (onenote on ipad pro, so no trees will be harmed during my re-eduation), attempting all exercises. Once I complete a section or chapter, I will create 'typed up' summary notes, this will be found on this site's sister site, [www.myphysicsnotes.com](http://www.myphysicsnotes.com). For each live stream I will publish what will be studied in advance.
 
 ## Schedule
 
