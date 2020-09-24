@@ -29,4 +29,10 @@ However I still poccess all of my undergraduate textbooks and some others I've a
 
 My plan is to live stream to this site (via twitch) while studying, taking handwritten notes from the books as I read through them (onenote on ipad pro, so no trees will be harmed during my re-eduation), attempting all exercises. Once I complete a section or chapter, I will create 'typed up' summary notes, this will be found on this site's sister site, www.myphysicsnotes.com. For each live stream I will publish what will be studied in advance.
 
+## Schedule
+
+Live from 9:30pm Mon-Fri, until I need sleep, and from  7-10am Sat-Sun
+
+## Previous Live Streams
+
 
