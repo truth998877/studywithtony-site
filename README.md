@@ -7,6 +7,8 @@
 
 Study along with me as I live stream my journey from A level physics through to undergrate level and beyond.
 
+## Live Stream
+
 ## Why Study Physics in 2020?
 
 23 years ago I graduated with a degree in Physics. For 17 years out of those 23 I have worked in aerospace engineering, in a role which I have enjoyed immensely, however, it  has meant that I have not used much of the knowlegde I learnt for my degree. If fact I have used very little of it and as a result I no longer pocess this knowledge. Looking back at the time just before I obtained by degree results, if someone had said to me that by the age of 45 this would be the case, I would have proably laughed at them, so strong was my desire further my studies and become a professional physicist. Little did I know, that my degree results weren't great.
