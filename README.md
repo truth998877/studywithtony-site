@@ -11,15 +11,15 @@ Study along with me as I live stream my journey from A level physics through to 
 
 <div id="twitch-embed">
 
-    <!-- Load the Twitch embed script -->
+<!-- Load the Twitch embed script -->
     
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
 
 <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
    <script type="text/javascript">
       new Twitch.Embed("twitch-embed", {
-        width: 854,
-        height: 480,
+        width: 1280,
+        height: 720,
         channel: "studywithtony" 
       });
     </script>
