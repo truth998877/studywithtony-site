@@ -31,7 +31,7 @@ Study along with me as I live stream my journey from A level physics through to 
 
 My desire now is to renew my knowledge and to catch up on the amazing advancements which has occured in the field in the time since I graduated, the discovery of the higgs boson, dection of graviational waves, quantum computing supremacy and imaging of an black hole event horizon to name a few.  And when I'm done, if that can ever be said within such a fueld, perhaps to put this knowledge to use professionally, if the right opportunity arises.
 
-## Syllabus
+## [Syllabus](/syllabus)
 
 To aid my studies I am developing a syllabus which will take me from A-level right through to undergraduate level. Primarily it will be based on three text books:
 
