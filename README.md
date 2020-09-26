@@ -9,6 +9,8 @@ Study along with me as I live stream my journey from A level physics through to 
 
 ## Live Stream
 
+If I'm live say Hi in the chat, else follow me on Twitch to be notified when I'm next of online...
+
 <div id="twitch-embed">
 
 <!-- Load the Twitch embed script -->
