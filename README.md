@@ -49,7 +49,7 @@ My plan is to live stream to this site (via twitch) while studying, taking handw
 
 Live from 9:30pm Mon-Fri, until I need sleep, and from  7-10am Sat-Sun
 
-## Previous Live Streams
+## [Previous Live Streams](/previouslivestreams)
 
 Catch up with my previous steams over on my previos streams page
 
