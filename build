@@ -1,0 +1,30 @@
+#!/bin/bash
+
+mkmanifest(){
+	> MANIFEST
+	while IFS= read -r line;do
+		line=${line:2}
+		line=${line%README.md}
+		line=${line%/}
+		[[ -z "$line" ]] && continue
+		echo "$line" >> MANIFEST
+	done <<< $(find . -name README.md)
+}
+
+render(){
+	if [ -z "S1" ]; then
+		echo "useage = render <dir>"
+		return 1
+	fi
+	declare dir="$1"
+	echo Building "$dir"
+	pandoc --quiet -s "./$dir/README.md" --template=assets/template.html -o "./$dir/index.html"
+}
+
+mkmanifest
+
+render .
+
+while IFS= read -r dir; do
+	render $dir
+done < MANIFEST

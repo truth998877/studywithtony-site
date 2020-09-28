@@ -17,13 +17,13 @@ URL: www.studywithtony.com/syllabus
   * Motion
   * Newton's Laws of Motion
   * Equilibrium
-  * Momentum, work, energy and power
+  * Momentum, Work, Energy and Power
   * Cirluar Motion
-  * Gravitiation
+  * Gravitation
 
 ### Theme 3: Oscilliations
 
-  * Free and Forced Oscilliation
+  * Free and Forced Oscillation
   * Wave Motion
   * Optics
   * Wave Interaction
