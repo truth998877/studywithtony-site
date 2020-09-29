@@ -57,10 +57,8 @@ My plan is to live stream to this site (via [twitch](https://www.twitch.tv/study
 
 ## Schedule
 
-Live from 9:30pm Mon-Thurs, until I need sleep. (Friday and Saturday nights are [games nights](http:///www.fortiesgamer.com)) and from 7-10am Sat-Sun.
+Live from 9:30pm Mon-Thurs, until I need sleep, (Friday and Saturday nights are [games nights](http:///www.fortiesgamer.com)) and from 7-10am Sat-Sun. I will probably stream at other times too. If I'm studying, I'll be streaming...
 
 ## [Previous Live Streams](/previouslivestreams)
 
 Catch up with my previous steams over on my previos streams page
-
-
