@@ -47,7 +47,9 @@ My chemistry syllabus will be based on the following textbook:
 
 I still possess all of my undergraduate textbooks, and some others I've aquired over the last couple of years. 
 
-Furthermore, I will also be learning linux, particularly, bash (shell scripting), vi/vim (text editor), tmux (terminal multiplexer) and lynx (textbased web browser) as I'm finding that the command line is a very efficient interface and I wish to improve in this area.
+## Linux
+
+I will also be learning linux, particularly, bash (shell scripting), vi/vim (text editor), tmux (terminal multiplexer) and lynx (textbased web browser) as I'm finding that the command line is a very efficient interface and I wish to improve in this area.
 
 ## Work Flow
 
