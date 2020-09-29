@@ -41,11 +41,11 @@ To aid my studies I am developing a syllabus which will take me from A-level rig
   * University Physics with Modern Physics, Freedman & Young, 11e, ISBN: 9780321204691
   * An Introduction to Modern Astrophysics, Carrol & Ostlie, ISBN: 9781108422161 (also known as the big orange book, bob)
 
-My chemistry syllabus will be based on the following textbook
+My chemistry syllabus will be based on the following textbook:
 
   * A-Level Chemistry, E.N Ramsden, 3rd Edition, ISBN: 9780748716883 
 
-I still poccess all of my undergraduate textbooks, and some others I've aquired over the last couple of years. 
+I still possess all of my undergraduate textbooks, and some others I've aquired over the last couple of years. 
 
 Furthermore, I will also be learning linux, particularly, bash (shell scripting), vi/vim (text editor), tmux (terminal multiplexer) and lynx (textbased web browser) as I'm finding that the command line is a very efficient interface and I wish to improve in this area.
 
