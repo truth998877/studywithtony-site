@@ -41,9 +41,9 @@ To aid my studies I am developing a syllabus which will take me from A-level rig
   * University Physics with Modern Physics, Freedman & Young, 11e, ISBN: 9780321204691
   * An Introduction to Modern Astrophysics, Carrol & Ostlie, ISBN: 9781108422161 (also known as the big orange book, bob)
 
-My Chemistry syllabus will be based on the following textbook
+My chemistry syllabus will be based on the following textbook
 
- * A-Level Chemistry, E.N Ramsden, 3rd Edition, ISBN: 9780748716883 
+  * A-Level Chemistry, E.N Ramsden, 3rd Edition, ISBN: 9780748716883 
 
 I still poccess all of my undergraduate textbooks, and some others I've aquired over the last couple of years. 
 
@@ -55,7 +55,7 @@ My plan is to live stream to this site (via [twitch](https://www.twitch.tv/study
 
 ## Schedule
 
-Live from 9:30pm Mon-Thurs, until I need sleep. (Friday night is [games night](http:///www.fortiesgamer.com) and from 7-10am Sat-Sun
+Live from 9:30pm Mon-Thurs, until I need sleep. (Friday and Saturday nights are [games nights](http:///www.fortiesgamer.com)) and from 7-10am Sat-Sun.
 
 ## [Previous Live Streams](/previouslivestreams)
 
