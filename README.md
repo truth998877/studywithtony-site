@@ -3,7 +3,7 @@
  URL: www.studywithtony.com
 ---
 
-## Study Along with [Me](http://www.tonyruther.com)
+# Study With [Tony](http://www.tonyruther.com)
 
 Study along with me as I live stream my journey from A-level physics and chemistry through to undergrate level and beyond.
 
