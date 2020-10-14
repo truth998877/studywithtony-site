@@ -27,9 +27,9 @@ If I'm live say Hi in the chat, else follow me on Twitch to be notified when I'm
     </script>
 </div>
 
-## Why Study Physics in 2020?
+## Why Study Physics or Chemistry in 2020?
 
-23 years ago I graduated with a degree in Physics, having also completed 2 years of undergraduate level chemistry. For 17 years out of those 23 I have worked in aerospace engineering, in a role which I have enjoyed immensely, however, it  has meant that I have not used much of the knowlegde I learnt for my degree. If fact I have used very little of it and as a result I no longer pocess this knowledge. Looking back at the time just before I obtained by degree results, if someone had said to me that by the age of 45 this would be the case, I would have proably laughed at them, so strong was my desire further my studies and become a professional physicist. Little did I know, that my degree results weren't great.
+In 1997, I graduated with a degree in Physics, having also completed 2 years of undergraduate level chemistry. Since then I have worked for 17 years in aerospace engineering, in a role which I have enjoyed immensely, however, it  has meant that I have not used much of the knowlegde I learnt for my degree. There are not many opportunities to use Quantum Theory in Gas Turbine Performance Engineering. If fact I have used very little of what I learnt for my degree, and as a result I simply no longer possess the knowledge. Looking back at the time just before I obtained by degree results, if someone had said to me that by the age of 45 this would be the case, I would have proably laughed at them, so strong was my desire further my studies and become a professional physicist. Little did I know then, that my degree results weren't the greatest.
 
 My desire now is to renew my knowledge and to catch up on the amazing advancements which has occured in both fields in the time since I graduated, the discovery of the Higgs boson, dection of graviational waves, quantum computing supremacy and imaging of an black hole event horizon to name a few.  And when I'm done, if that can ever be said within such a fueld, perhaps to put this knowledge to use professionally, if the right opportunity arises.
 
