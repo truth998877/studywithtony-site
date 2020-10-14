@@ -33,27 +33,29 @@ If I'm live say Hi in the chat, else follow me on Twitch to be notified when I'm
 
 My desire now is to renew my knowledge and to catch up on the amazing advancements which has occured in both fields in the time since I graduated, the discovery of the Higgs boson, dection of graviational waves, quantum computing supremacy and imaging of an black hole event horizon to name a few.  And when I'm done, if that can ever be said within such a fueld, perhaps to put this knowledge to use professionally, if the right opportunity arises.
 
-## [Syllabus](/syllabus)
+## Syllabus
 
-To aid my studies I am developing a syllabus which will take me from A-level right through to undergraduate level. For Physics it will be based on three text books:
+To aid my studies I am developing a syllabus which will take me from A-level right through to undergraduate level. For [Physics](/ALevelsyllabus) it will be based on three text books:
 
   * Physics (Bath Science 16-19), Robert Hutchings,  ISBN: 9780174385103
   * University Physics with Modern Physics, Freedman & Young, 11e, ISBN: 9780321204691
   * An Introduction to Modern Astrophysics, Carrol & Ostlie, ISBN: 9781108422161 (also known as the big orange book, bob)
 
-My chemistry syllabus will be based on the following textbook:
+My [Chemistry](/ALevelsyllabus) syllabus will be based on the following textbook:
 
   * A-Level Chemistry, E.N Ramsden, 3rd Edition, ISBN: 9780748716883 
 
-I still possess all of my undergraduate textbooks, and some others I've aquired over the last couple of years. 
+I still possess all of my undergraduate textbooks, and some others I've aquired over the last couple of years, plus I also still possess all of the university lecture notes. From these I will develope a graduate syllabus over the coming weeks and months. 
 
-## Linux
+## Preparation work - Linux Command Line Proficiency
 
-I will also be learning linux, particularly, bash (shell scripting), vi/vim (text editor), tmux (terminal multiplexer) and lynx (textbased web browser) as I'm finding that the command line is a very efficient interface and I wish to improve in this area.
+I will also be learning to proficiently use the linux command line, particularly, bash (shell scripting), vi/vim (text editor), tmux (terminal multiplexer), lynx (textbased web browser), markdown and pandoc. I'm finding that the command line is a very efficient interface and I'm beginning to find graphical interfaces annoying - when I have many 'windows' open I simply get lost. So I wish to improve my proficiency in using the linux command line, however, in that regard, I have already started. This very site was put together by using nothing but command line tools. All content has been generated using markdown created using Vim, and pandoc was used within a bash script to render the markdown files into html.
 
 ## Work Flow
 
-My plan is to live stream to this site (via [twitch](https://www.twitch.tv/studywithtony)) while studying, taking handwritten notes from the books as I read through them (onenote on ipad pro, so no trees will be harmed during my re-eduation), attempting all exercises. Once I complete a section or chapter, I will create 'typed up' summary notes, this will be found on this site's sister sites, [www.myphysicsnotes.com](http://www.myphysicsnotes.com) and [www.mychemistrynotes.com](https://www.mychemistrynotes.com). For each live stream I will publish what will be studied in advance.
+My plan is to live stream to this site (via [twitch](https://www.twitch.tv/studywithtony)) while studying. Handwritten notes will be taken as I work through the textbooks (onenote on ipad pro, so no trees will be harmed during my re-eduation). All exercises will be attempted. Once I complete a section or chapter, I will create 'typed up' summary notes in markdown. These will then be found on this site's sister sites, [www.myphysicsnotes.com](http://www.myphysicsnotes.com) and [www.mychemistrynotes.com](https://www.mychemistrynotes.com). 
+
+For each live stream I will publish what will be studied in advance.
 
 ## Schedule
 
@@ -61,4 +63,8 @@ Live from 9:30pm Mon-Thurs, until I need sleep, (Friday and Saturday nights are 
 
 ## [Previous Live Streams](/previouslivestreams)
 
-Catch up with my previous steams over on my previos streams page
+Catch up with my previous steams over on my previous live streams page. These will be host on [youtube](https://www.youtube.com/channel/UCAPH_kDcoQMA5zav2OwgFng).
+
+## Disclaimer
+
+This page may contain affiliate links!!
