@@ -59,7 +59,7 @@ For each live stream I will publish what will be studied in advance.
 
 ## Schedule
 
-Live from 9:30pm Mon-Thurs, until I need sleep, (Friday and Saturday nights are [games nights](http:///www.fortiesgamer.com)) and from 7-10am Sat-Sun. I will probably stream at other times too. If I'm studying, I'll be streaming...
+Live from 9:30pm Mon-Thurs, until I need sleep, (Friday and Saturday nights are [games nights](https://www.fortiesgamer.com/live)) and from 7-10am Sat-Sun. I will probably stream at other times too. If I'm studying, I'll be streaming...
 
 ## [Previous Live Streams](/previouslivestreams)
 
