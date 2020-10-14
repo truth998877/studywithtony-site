@@ -39,13 +39,13 @@ To aid my studies I am developing a syllabus which will take me from A-level rig
 
   * Physics (Bath Science 16-19), Robert Hutchings,  ISBN: 9780174385103
   * University Physics with Modern Physics, Freedman & Young, 11e, ISBN: 9780321204691
-  * An Introduction to Modern Astrophysics, Carrol & Ostlie, ISBN: 9781108422161 (also known as the big orange book, bob)
+  * An Introduction to Modern Astrophysics, Carrol & Ostlie, ISBN: 9781108422161 (also known as the Big Orange Book, BOB!)
 
 My [Chemistry](/ALevelsyllabus) syllabus will be based on the following textbook:
 
   * A-Level Chemistry, E.N Ramsden, 3rd Edition, ISBN: 9780748716883 
 
-I still possess all of my undergraduate textbooks, and some others I've aquired over the last couple of years, plus I also still possess all of the university lecture notes. From these I will develope a graduate syllabus over the coming weeks and months. 
+I still possess all of my undergraduate textbooks, and some others I've aquired over the last couple of years. I also still possess all of the university lecture notes. From these, and the undergraduate books above, I will develop the undergraduate syllabus that I will follow over the coming weeks and months. 
 
 ## Preparation work - Linux Command Line Proficiency
 
@@ -53,9 +53,16 @@ I will also be learning to proficiently use the linux command line, particularly
 
 ## Work Flow
 
-My plan is to live stream to this site (via [twitch](https://www.twitch.tv/studywithtony)) while studying. Handwritten notes will be taken as I work through the textbooks (onenote on ipad pro, so no trees will be harmed during my re-eduation). All exercises will be attempted. Once I complete a section or chapter, I will create 'typed up' summary notes in markdown. These will then be found on this site's sister sites, [www.myphysicsnotes.com](http://www.myphysicsnotes.com) and [www.mychemistrynotes.com](https://www.mychemistrynotes.com). 
+My plan is to live stream to this site (via [twitch](https://www.twitch.tv/studywithtony)) while studying. Handwritten notes will be taken as I work through the textbooks (onenote on ipad pro, so no trees will be harmed during my re-eduation). All exercises will be attempted. Once I complete a section or chapter, I will create 'typed up' summary notes in markdown. These will then be found on this site's sister sites, [www.myphysicsnotes.com](http://www.myphysicsnotes.com) and [www.mychemistrynotes.com](https://www.mychemistrynotes.com).
+
+However, the above won't be all I do. It has been shown that the best study strategies require elements of self testing and what is called distributed practice. Its not clear to me what method of self testing would be best suited to me, however, whatever method I'll use, it must be done. I must determine whether or not I know what I've studied! Distrubuted practice means re-visiting a topic several times over a long period. This means that I will not simply move through my sylabuss and be done. Each area will be coverted more than once, and I will be producing more material than that which appear on my notes sites.
 
 For each live stream I will publish what will be studied in advance.
+
+## Timescale
+
+In the UK an A-Level is most often studied over two years, and an undegraduate course (BSc) lasts three. However, I will not put a timescale on my self right now. I will just study, and keep studying until I'm comfortable with all the material.   
+
 
 ## Schedule
 
