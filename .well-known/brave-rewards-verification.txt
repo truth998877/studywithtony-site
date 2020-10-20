@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: studywithtony.com
-Token: c741c96969468e5ea4ce3c9173d707839af19c88cd3602fc3232d0998bf3c381
