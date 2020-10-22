@@ -37,13 +37,13 @@ My desire now is to renew my knowledge and to catch up on the amazing advancemen
 
 To aid my studies I am developing a syllabus which will take me from A-level right through to undergraduate level. For [Physics](/ALevelsyllabus) it will be based on three text books:
 
-  * Physics (Bath Science 16-19), Robert Hutchings,  ISBN: 9780174385103
-  * University Physics with Modern Physics, Freedman & Young, 11e, ISBN: 9780321204691
-  * An Introduction to Modern Astrophysics, Carrol & Ostlie, ISBN: 9781108422161 (also known as the Big Orange Book, BOB!)
+  * [Physics (Bath Science 16-19), Robert Hutchings,  ISBN: 9780174385103](https://www.amazon.co.uk/Physics-Science-16-19-Robert-Hutchings/dp/0174385102/)
+  * [University Physics with Modern Physics, Freedman & Young, 11e, ISBN: 9780321204691](https://www.amazon.co.uk/University-Physics-Modern-Mastering-International/dp/0321204697/)
+  * [An Introduction to Modern Astrophysics, Carrol & Ostlie, ISBN: 9781108422161 (also known as the Big Orange Book, BOB!)](https://www.amazon.co.uk/Introduction-Modern-Astrophysics-Bradley-Carroll/dp/1108422160/)
 
 My [Chemistry](/ALevelsyllabus) syllabus will be based on the following textbook:
 
-  * A-Level Chemistry, E.N Ramsden, 3rd Edition, ISBN: 9780748716883 
+  * [A-Level Chemistry, E.N Ramsden, 3rd Edition, ISBN: 9780748716883](https://www.amazon.co.uk/Level-Chemistry-Eileen-Ramsden/dp/0748716882/)
 
 I still possess all of my undergraduate textbooks, and some others I've aquired over the last couple of years. I also still possess all of the university lecture notes. From these, and the undergraduate books above, I will develop the undergraduate syllabus that I will follow over the coming weeks and months. 
 
