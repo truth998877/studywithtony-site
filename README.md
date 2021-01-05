@@ -55,18 +55,17 @@ I will also be learning to proficiently use the linux command line, particularly
 
 My plan is to live stream to this site (via [twitch](https://www.twitch.tv/studywithtony)) while studying. Handwritten notes will be taken as I work through the textbooks (onenote on ipad pro, so no trees will be harmed during my re-eduation). All exercises will be attempted. Once I complete a section or chapter, I will create 'typed up' summary notes in markdown. These will then be found on this site's sister sites, [www.myphysicsnotes.com](http://www.myphysicsnotes.com) and [www.mychemistrynotes.com](https://www.mychemistrynotes.com).
 
-However, the above won't be all I do. It has been shown that the best study strategies require elements of self testing and what is called distributed practice. Its not clear to me what method of self testing would be best suited to me, however, whatever method I'll use, it must be done. I must determine whether or not I know what I've studied! Distrubuted practice means re-visiting a topic several times over a long period. This means that I will not simply move through my syllabus and be done. Each area will be covered more than once, and I will be producing more material than that which will appear on my notes sites above.
+However, the above won't be all I do. It has been shown that the best study strategies require elements of self testing and what is called distributed practice. Its not clear to me what method of self testing would be best suited to me, however, whatever method I'll use, it must be done. I must determine whether or not I know what I've studied! Distrubuted practice means re-visiting a topic several times over a long period. This means that I will not simply move through my syllabus and be done. Each area will be covered more than once, and I will be producing more material than that which will appear on my notes sites linked above.
 
-For each live stream, I will publish what will be studied in advance.
 
 ## Timescale
 
-In the UK an A-Level is most often studied over two years, and an undegraduate course (BSc) lasts three. However, I will not put a timescale on my self right now. I will just study, and keep studying until I'm comfortable with all the material.   
+In the UK an A-Level is most often studied over two years, and an undergraduate course (BSc) lasts three. Given how much time I'll have to work on this I expect working through both books will take 6 months to a year.   
 
 
 ## Schedule
 
-Live from 9:30pm Mon-Thurs, until I need sleep, (Friday and Saturday nights are [games nights](https://www.fortiesgamer.com/live)) and from 7-10am Sat-Sun. I will probably stream at other times too. If I'm studying, I'll be streaming...
+I'll be live from around 9:00pm Mon-Thurs, until I need sleep. This will be around 11pm. Friday and Saturday nights are [games nights](https://www.fortiesgamer.com/live)) Over during the week ends I'll be live from around 7-10am. I will probably stream at other times too, if I'm studying, I'll be streaming...
 
 ## [Previous Live Streams](/previouslivestreams)
 
