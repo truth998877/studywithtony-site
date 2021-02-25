@@ -18,10 +18,10 @@ URL: www.studywithtony.com/ALevelsyllabus
   * Newton's Laws of Motion
   * Equilibrium
   * Momentum, Work, Energy and Power
-  * Cirluar Motion
+  * Circular Motion
   * Gravitation
 
-### Theme 3: Oscilliations
+### Theme 3: Oscillations
 
   * Free and Forced Oscillation
   * Wave Motion
@@ -46,7 +46,7 @@ URL: www.studywithtony.com/ALevelsyllabus
   * Temperature
   * Gases
   * The First Law of Thermodynamics
-  * The Transfer of Thermal Engergy
+  * The Transfer of Thermal Energy
   * Charged Particles
   * Atomic Structure
   * Quantum Theory  
