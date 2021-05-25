@@ -72,7 +72,6 @@ The better use of the linux command line naturally lends itself to coding. Each 
  * Fortran
  * C
  * Cuda
-
  * Assembly
 
 Some will say that some of the above are not languages, however, I beg to differ, they all have syntax, and if they have syntax, then to mean they're languages. 
@@ -80,17 +79,29 @@ Some will say that some of the above are not languages, however, I beg to differ
 Why these?
 
 Markdown - because I want to capture my knowledge as simply as possible, and what could be more simpler than a text file. Besides, with Pandoc, markdown file can be converted to cover most people needs
+
 LaTex - What right minded scientist does not know LaTex, most scientific work papers are written in it, and it compliments markdown well, mostly or maths notation
+
 HTML/CSS/Javascripts - one simply needs to be able to create websites
+
 Posix and bash shell scripting - bash is the default shell on most linux distributions, but Posix shell will run on any Unix based system
+
 Perl - for when bash/posix shell is not enough
+
 Python3 - because it's everywhere in academia
+
 Octave/Matlab - because Matlab is everywhere in industry, and octave is a free open source matlab alternative that is mostly compatible with matlab
+
 SQL - Again, it's use is ubiquitous in industry
+
 Go -  It's an up and coming language that is gain traction in lots of different areas
+
 Fortran - It does maths, well
+
 C - Is the daddy of all languages
+
 Cuda - For when many processing cores are needed
+
 Assembly - why not?
   
 
